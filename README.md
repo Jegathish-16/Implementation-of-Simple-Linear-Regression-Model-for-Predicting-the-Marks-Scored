@@ -55,7 +55,9 @@ plt.show()
 ```
 
 ## Output:
+## For training data:
 ![simple linear regression model for predicting the marks scored](o1.png)
+## For testing data:
 ![simple linear regression model for predicting the marks scored](o2.png)
 
 
